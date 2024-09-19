@@ -1,217 +1,233 @@
-大陆央视,#genre#
-CCTV1,http://135.148.104.228:19806/5cb2056ba225422aab04f0ff6c1a1ad9
-CCTV2,http://135.148.104.228:19806/1c7a2a5c0c384637bb942eb49cc1e0ee
-CCTV3,http://135.148.104.228:19806/18330ef800b2458892c9761dab67e610
-CCTV4,http://135.148.104.228:19806/53697021440d41b180890cab9ba1cd96
-CCTV5,http://135.148.104.228:19806/0126636bbd494267ae7f17c8abc8521f
-CCTV5+,http://135.148.104.228:19806/631fd43e577344b6ab6bd628dfa384ca
-CCTV6,http://135.148.104.228:19806/8cf06c01d4a14947a753a183865d1031
-CCTV7,http://135.148.104.228:19806/06fccec521bf42c29c0803f7a4c40c03
-CCTV8,http://135.148.104.228:19806/890497d5070b48069ec157bbb85e27bf
-CCTV9,http://135.148.104.228:19806/bd1be015bfe94e53aab75e8b4a12bfe1
-CCTV10,http://135.148.104.228:19806/798b628cc31d4534aa26f8d4a2219fb7
-CCTV11,http://135.148.104.228:19806/5cf4c63b2eaf43cd80d6cccbbb9ae91d
-CCTV12,http://135.148.104.228:19806/0fccd849c85946e9bed8273fde548d57
-CCTV13,http://135.148.104.228:19806/65926086b49b4fc4b6f29aab1d497f35
-CCTV14,http://135.148.104.228:19806/bf1a9f45f37f49568953fe97efe2ccb9
-CCTV15,http://135.148.104.228:19806/3777f550472d4b91a5bbf76a74580cec
-CCTV16,http://135.148.104.228:19806/c2001475104d47b9815a8c3e5e73a761
-
-大陆省市,#genre#
-北京卫视,http://135.148.104.228:19806/06648fa4716e4c0f858f936ec55a5b08
-天津卫视,http://135.148.104.228:19806/753b5a1ce87949e797618d7a05919c87
-河北卫视,http://135.148.104.228:19806/6bafcb082dd348218d7d85a4219c3cf2
-辽宁卫视,http://135.148.104.228:19806/16cc7a4d3c5b4f16a6ae26097645f201
-东方卫视,http://135.148.104.228:19806/ea901b87a24d4699bc2744aba44fd568
-江苏卫视,http://135.148.104.228:19806/5d24dd76478f4a5c9ba4bf58121b7839
-浙江卫视,http://135.148.104.228:19806/1c7b022796c6442db9dacb809dd1985e
-江西卫视,http://135.148.104.228:19806/73d8b834df834d348e21306f662f6fd8
-山东卫视,http://135.148.104.228:19806/4713b9f348af4602b007b04aa7f7371a
-东南卫视,http://135.148.104.228:19806/d29447aad8d34c8aaf7fad3247b8f768
-湖北卫视,http://135.148.104.228:19806/20fd4426b35349bba472cf83b6d22811
-湖南卫视,http://135.148.104.228:19806/c6c62463372f446d8b9550fc6a0094c3
-深圳卫视,http://135.148.104.228:19806/a362a0ab6e614f3281dc0603db0939a2
-广东卫视,http://135.148.104.228:19806/74940f44e1ab4fc9930f2f70d965b63a
-广西卫视,http://135.148.104.228:19806/e86220d9f377476c9275764703a4e851
-重庆卫视,http://135.148.104.228:19806/7d56bafbc2844258adc01c63005510f4
-云南卫视,http://135.148.104.228:19806/b7b315110bef49df9300ae68ec1e5143
-星空卫视,http://135.148.104.228:19806/ea86987738b4465482e6f2a122a6b3f8
-广东南方卫视,http://135.148.104.228:19806/317cfdadd6a74317872a42c84b06f6db
-黑龙江卫视,http://135.148.104.228:19806/9c0d508f47ff4bdb8182d9f72931cdcc
-珠江台,http://135.148.104.228:19806/681ace4bfde14460a9402f15a7be6985
-魅力足球,http://135.148.104.228:19806/4f8ae19901604006bdf0708826db9862
-广东体育,http://135.148.104.228:19806/645e3c3f0008eacb71f036e30c4b2c2f
-广东影视,http://135.148.104.228:19806/1aeb81d7fa6445348a1765a94ee2ba2c
-爱奇艺,http://135.148.104.228:19806/206defdef43a42fb8ee50238e76ac32c
-
-港澳特区,#genre#
-凤凰中文台,http://135.148.104.228:19806/645385720009117848161b4e340f749d
-凤凰资讯台,http://135.148.104.228:19806/0b7958cc2d1c4a6f9f9449e92ad92b9e
-凤凰香港台,http://135.148.104.228:19806/b70e94e7ac144bf585ad3bb140833c64
-凤凰电影台,http://135.148.104.228:19806/2df8c6787b0a4f08bee3dcccd49aef8b
-翡翠台(备),http://135.148.104.228:19806/03b76f07cea3474a913541c586fc0747
-翡翠台,http://135.148.104.228:19806/645c8bbf0007c6216b56c2955f644196
-翡翠台(华丽台),http://135.148.104.228:19806/273abed884a24011a410ddb0ea81cb1a
-明珠台,http://135.148.104.228:19806/24e912a5d830431fbd5d9ca1792be9de
-J2,http://135.148.104.228:19806/1d7353774ff645bcbca9f9d5538c4ba7
-无线新闻台(备),http://135.148.104.228:19806/fee4b6f52177485c870f9389d95a8801
-无线新闻台,http://135.148.104.228:19806/491bba29dd93447ca316d45432412f1b
-无线财经·资讯台,http://135.148.104.228:19806/a2c94bb395ca47a095859dc72d106a2e
-TVB经典台,http://135.148.104.228:19806/d63e2f53bfab45a5ab38e79430862268
-TVB星河(粤),http://135.148.104.228:19806/18d7387cc825496db789bbfa731a5707
-TVB娱乐新闻台,http://135.148.104.228:19806/8378c6ce158144038e684ac97d498273
-功夫台,http://135.148.104.228:19806/645b3c4f000b82ea663876002bf2462a
-港台電視31,http://135.148.104.228:19806/5c7ff8bb2e0349cdab492d5aea25ff3c
-港台电视32,http://135.148.104.228:19806/afa315c3220e4a3898e3e2b3beca6ac7
-Hands Up,http://135.148.104.228:19806/6f319c6a8c154eeeb7aeb9a2c0767b8a
-HKC新闻台,http://135.148.104.228:19806/a30ba03ec986438088e5748c21ac1f5b
-HKC财经资讯台,http://135.148.104.228:19806/eaa39196584e4c4eaeda40279785dfc6
-18台,http://135.148.104.228:19806/5b5b0e8be20b431281382660b7d67906
-HKC 18,http://135.148.104.228:19806/2ea5b3599fc94ffbaf94bcec0b1a436d
-HKC 603,http://135.148.104.228:19806/2141e79414314275a21c96d6b9a74933
-HKC體育台,http://135.148.104.228:19806/edd0e12a6a464363a6bf754f4ecc0b99
-HKC Sports Plus 1,http://135.148.104.228:19806/82f71e9986084c86a85807f6fa9ab8a5
-HKC Sports Plus 3,http://135.148.104.228:19806/a27709fdfa574a5f9ca52c490a37435b
-HKC电影台,http://135.148.104.228:19806/f64b49e3829e4fe2bf948a18b19c5a98
-HKC综合娱乐台,http://135.148.104.228:19806/aedac82c51ca473aafe301199d9a07eb
-HOY资讯台,http://135.148.104.228:19806/70b4e795ea654fb5bad399c2268c2fed
-粤语片台,http://135.148.104.228:19806/438531070655458b8e07cad61e518d7b
-ViuTVsix,http://135.148.104.228:19806/c4c1c3b894794541baf86612a8c8ce33
-ViuTV,http://135.148.104.228:19806/894e66f1d02e423f9d6726108942dcf1
-现在新闻台,http://135.148.104.228:19806/d7d8ced83c694ee09eda089b554d9dc5
-Thrill,http://135.148.104.228:19806/14f535a7ec5a4939a67e7165f94ca38e
-美亚电影台(粤语),http://135.148.104.228:19806/64550dca000ac0cf4e12b37b0be73efc
-亚洲剧台,http://135.148.104.228:19806/9d60d2f9f6fa4a368fbe457f8efad108
-阳光卫视,http://135.148.104.228:19806/2248ad425a574167b4c28e6378071e2e
-星空卫视,http://135.148.104.228:19806/ea86987738b4465482e6f2a122a6b3f8
-澳门-MACAU,http://135.148.104.228:19806/c387d27336de4557b3dbe76999c5d9e5
-澳门莲花,http://135.148.104.228:19806/bba45ad672ed40a9b433330c4839cfe2
-
-台湾省,#genre#
-TVBS欢乐台,http://135.148.104.228:19806/645c744e0000479b6afb2f39254b3e96
-TVBS新闻台,http://135.148.104.228:19806/beaa6cbcf1034703a97d3295f8c0ae60
-TVBS,http://135.148.104.228:19806/644d1a13000e2f842f02b17e6e9f6cae
-TVBS精采台,http://135.148.104.228:19806/8f1da99629564b52ba7ebf7621218671
-TVBS亚洲,http://135.148.104.228:19806/7389e1ced8184a84aa22aeec29be6f85
-中天新闻台,http://135.148.104.228:19806/645a505500087efb629eacb405a54a42
-中天娱乐台,http://135.148.104.228:19806/97163a966a4a49ac888dbd606b965cf4
-中天综合台,http://135.148.104.228:19806/6458c64d00033f105c9b7c1c35097dec
-中视,http://135.148.104.228:19806/f1f4f77c21e2470e9c29111c9370bf08
-中视经典台,http://135.148.104.228:19806/0a7a6c90f54b48e0878d0594d08916f6
-中视菁采台,http://135.148.104.228:19806/dc2d664758354920a5935d334a40e7e8
-中视新闻台,http://135.148.104.228:19806/8817421e14dd462f8deede53ce057af1
-中视(备),http://135.148.104.228:19806/4c53fced68824bc1b4e35dbd375e532a
-民视,http://135.148.104.228:19806/645d085e0005113d6d3d8ef25af73081
-民视新闻台,http://135.148.104.228:19806/64577cff0001eb7c5795230f6bb8749b
-民视第一台,http://135.148.104.228:19806/b82e864a876e4a99adf62a0f7a797714
-民视台湾台,http://135.148.104.228:19806/742c1ff14b4b47d49007cd12204c8483
-民视(备),http://135.148.104.228:19806/07b465de830f4fb7a7e9b3f826401578
-台视,http://135.148.104.228:19806/6458c443大陆央视,#genre#
-CCTV1,http://135.148.104.228:19806/5cb2056ba225422aab04f0ff6c1a1ad9
-CCTV2,http://135.148.104.228:19806/1c7a2a5c0c384637bb942eb49cc1e0ee
-CCTV3,http://135.148.104.228:19806/18330ef800b2458892c9761dab67e610
-CCTV4,http://135.148.104.228:19806/53697021440d41b180890cab9ba1cd96
-CCTV5,http://135.148.104.228:19806/0126636bbd494267ae7f17c8abc8521f
-CCTV5+,http://135.148.104.228:19806/631fd43e577344b6ab6bd628dfa384ca
-CCTV6,http://135.148.104.228:19806/8cf06c01d4a14947a753a183865d1031
-CCTV7,http://135.148.104.228:19806/06fccec521bf42c29c0803f7a4c40c03
-CCTV8,http://135.148.104.228:19806/890497d5070b48069ec157bbb85e27bf
-CCTV9,http://135.148.104.228:19806/bd1be015bfe94e53aab75e8b4a12bfe1
-CCTV10,http://135.148.104.228:19806/798b628cc31d4534aa26f8d4a2219fb7
-CCTV11,http://135.148.104.228:19806/5cf4c63b2eaf43cd80d6cccbbb9ae91d
-CCTV12,http://135.148.104.228:19806/0fccd849c85946e9bed8273fde548d57
-CCTV13,http://135.148.104.228:19806/65926086b49b4fc4b6f29aab1d497f35
-CCTV14,http://135.148.104.228:19806/bf1a9f45f37f49568953fe97efe2ccb9
-CCTV15,http://135.148.104.228:19806/3777f550472d4b91a5bbf76a74580cec
-CCTV16,http://135.148.104.228:19806/c2001475104d47b9815a8c3e5e73a761
-
-大陆省市,#genre#
-北京卫视,http://135.148.104.228:19806/06648fa4716e4c0f858f936ec55a5b08
-天津卫视,http://135.148.104.228:19806/753b5a1ce87949e797618d7a05919c87
-河北卫视,http://135.148.104.228:19806/6bafcb082dd348218d7d85a4219c3cf2
-辽宁卫视,http://135.148.104.228:19806/16cc7a4d3c5b4f16a6ae26097645f201
-东方卫视,http://135.148.104.228:19806/ea901b87a24d4699bc2744aba44fd568
-江苏卫视,http://135.148.104.228:19806/5d24dd76478f4a5c9ba4bf58121b7839
-浙江卫视,http://135.148.104.228:19806/1c7b022796c6442db9dacb809dd1985e
-江西卫视,http://135.148.104.228:19806/73d8b834df834d348e21306f662f6fd8
-山东卫视,http://135.148.104.228:19806/4713b9f348af4602b007b04aa7f7371a
-东南卫视,http://135.148.104.228:19806/d29447aad8d34c8aaf7fad3247b8f768
-湖北卫视,http://135.148.104.228:19806/20fd4426b35349bba472cf83b6d22811
-湖南卫视,http://135.148.104.228:19806/c6c62463372f446d8b9550fc6a0094c3
-深圳卫视,http://135.148.104.228:19806/a362a0ab6e614f3281dc0603db0939a2
-广东卫视,http://135.148.104.228:19806/74940f44e1ab4fc9930f2f70d965b63a
-广西卫视,http://135.148.104.228:19806/e86220d9f377476c9275764703a4e851
-重庆卫视,http://135.148.104.228:19806/7d56bafbc2844258adc01c63005510f4
-云南卫视,http://135.148.104.228:19806/b7b315110bef49df9300ae68ec1e5143
-星空卫视,http://135.148.104.228:19806/ea86987738b4465482e6f2a122a6b3f8
-广东南方卫视,http://135.148.104.228:19806/317cfdadd6a74317872a42c84b06f6db
-黑龙江卫视,http://135.148.104.228:19806/9c0d508f47ff4bdb8182d9f72931cdcc
-珠江台,http://135.148.104.228:19806/681ace4bfde14460a9402f15a7be6985
-魅力足球,http://135.148.104.228:19806/4f8ae19901604006bdf0708826db9862
-广东体育,http://135.148.104.228:19806/645e3c3f0008eacb71f036e30c4b2c2f
-广东影视,http://135.148.104.228:19806/1aeb81d7fa6445348a1765a94ee2ba2c
-爱奇艺,http://135.148.104.228:19806/206defdef43a42fb8ee50238e76ac32c
-
-港澳特区,#genre#
-凤凰中文台,http://135.148.104.228:19806/645385720009117848161b4e340f749d
-凤凰资讯台,http://135.148.104.228:19806/0b7958cc2d1c4a6f9f9449e92ad92b9e
-凤凰香港台,http://135.148.104.228:19806/b70e94e7ac144bf585ad3bb140833c64
-凤凰电影台,http://135.148.104.228:19806/2df8c6787b0a4f08bee3dcccd49aef8b
-翡翠台(备),http://135.148.104.228:19806/03b76f07cea3474a913541c586fc0747
-翡翠台,http://135.148.104.228:19806/645c8bbf0007c6216b56c2955f644196
-翡翠台(华丽台),http://135.148.104.228:19806/273abed884a24011a410ddb0ea81cb1a
-明珠台,http://135.148.104.228:19806/24e912a5d830431fbd5d9ca1792be9de
-J2,http://135.148.104.228:19806/1d7353774ff645bcbca9f9d5538c4ba7
-无线新闻台(备),http://135.148.104.228:19806/fee4b6f52177485c870f9389d95a8801
-无线新闻台,http://135.148.104.228:19806/491bba29dd93447ca316d45432412f1b
-无线财经·资讯台,http://135.148.104.228:19806/a2c94bb395ca47a095859dc72d106a2e
-TVB经典台,http://135.148.104.228:19806/d63e2f53bfab45a5ab38e79430862268
-TVB星河(粤),http://135.148.104.228:19806/18d7387cc825496db789bbfa731a5707
-TVB娱乐新闻台,http://135.148.104.228:19806/8378c6ce158144038e684ac97d498273
-功夫台,http://135.148.104.228:19806/645b3c4f000b82ea663876002bf2462a
-港台電視31,http://135.148.104.228:19806/5c7ff8bb2e0349cdab492d5aea25ff3c
-港台电视32,http://135.148.104.228:19806/afa315c3220e4a3898e3e2b3beca6ac7
-Hands Up,http://135.148.104.228:19806/6f319c6a8c154eeeb7aeb9a2c0767b8a
-HKC新闻台,http://135.148.104.228:19806/a30ba03ec986438088e5748c21ac1f5b
-HKC财经资讯台,http://135.148.104.228:19806/eaa39196584e4c4eaeda40279785dfc6
-18台,http://135.148.104.228:19806/5b5b0e8be20b431281382660b7d67906
-HKC 18,http://135.148.104.228:19806/2ea5b3599fc94ffbaf94bcec0b1a436d
-HKC 603,http://135.148.104.228:19806/2141e79414314275a21c96d6b9a74933
-HKC體育台,http://135.148.104.228:19806/edd0e12a6a464363a6bf754f4ecc0b99
-HKC Sports Plus 1,http://135.148.104.228:19806/82f71e9986084c86a85807f6fa9ab8a5
-HKC Sports Plus 3,http://135.148.104.228:19806/a27709fdfa574a5f9ca52c490a37435b
-HKC电影台,http://135.148.104.228:19806/f64b49e3829e4fe2bf948a18b19c5a98
-HKC综合娱乐台,http://135.148.104.228:19806/aedac82c51ca473aafe301199d9a07eb
-HOY资讯台,http://135.148.104.228:19806/70b4e795ea654fb5bad399c2268c2fed
-粤语片台,http://135.148.104.228:19806/438531070655458b8e07cad61e518d7b
-ViuTVsix,http://135.148.104.228:19806/c4c1c3b894794541baf86612a8c8ce33
-ViuTV,http://135.148.104.228:19806/894e66f1d02e423f9d6726108942dcf1
-现在新闻台,http://135.148.104.228:19806/d7d8ced83c694ee09eda089b554d9dc5
-Thrill,http://135.148.104.228:19806/14f535a7ec5a4939a67e7165f94ca38e
-美亚电影台(粤语),http://135.148.104.228:19806/64550dca000ac0cf4e12b37b0be73efc
-亚洲剧台,http://135.148.104.228:19806/9d60d2f9f6fa4a368fbe457f8efad108
-阳光卫视,http://135.148.104.228:19806/2248ad425a574167b4c28e6378071e2e
-星空卫视,http://135.148.104.228:19806/ea86987738b4465482e6f2a122a6b3f8
-澳门-MACAU,http://135.148.104.228:19806/c387d27336de4557b3dbe76999c5d9e5
-澳门莲花,http://135.148.104.228:19806/bba45ad672ed40a9b433330c4839cfe2
-
-台湾省,#genre#
-TVBS欢乐台,http://135.148.104.228:19806/645c744e0000479b6afb2f39254b3e96
-TVBS新闻台,http://135.148.104.228:19806/beaa6cbcf1034703a97d3295f8c0ae60
-TVBS,http://135.148.104.228:19806/644d1a13000e2f842f02b17e6e9f6cae
-TVBS精采台,http://135.148.104.228:19806/8f1da99629564b52ba7ebf7621218671
-TVBS亚洲,http://135.148.104.228:19806/7389e1ced8184a84aa22aeec29be6f85
-中天新闻台,http://135.148.104.228:19806/645a505500087efb629eacb405a54a42
-中天娱乐台,http://135.148.104.228:19806/97163a966a4a49ac888dbd606b965cf4
-中天综合台,http://135.148.104.228:19806/6458c64d00033f105c9b7c1c35097dec
-中视,http://135.148.104.228:19806/f1f4f77c21e2470e9c29111c9370bf08
-中视经典台,http://135.148.104.228:19806/0a7a6c90f54b48e0878d0594d08916f6
-中视菁采台,http://135.148.104.228:19806/dc2d664758354920a5935d334a40e7e8
-中视新闻台,http://135.148.104.228:19806/8817421e14dd462f8deede53ce057af1
-中视(备),http://135.148.104.228:19806/4c53fced68824bc1b4e35dbd375e532a
-民视,http://135.148.104.228:19806/645d085e0005113d6d3d8ef25af73081
-民视新闻台,http://135.148.104.228:19806/64577cff0001eb7c5795230f6bb8749b
-民视第一台,http://135.148.104.228:19806/b82e864a876e4a99adf62a0f7a797714
-民视台湾台,http://135.148.104.228:19806/742c1ff14b4b47d49007cd12204c8483
-民视(备),http://135.148.104.228:19806/07b465de830f4fb7a7e9b3f826401578
-台视,http://135.148.104.228:19806/6458c443
+#EXTM3U
+#EXTINF:-1 ,凤凰卫视中文台
+rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
+#EXTINF:-1 ,凤凰卫视资讯台
+rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
+#EXTINF:-1 ,凤凰卫视电影台
+rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
+#EXTINF:-1 ,星空卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/startv
+#EXTINF:-1 ,Star Sports
+rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
+#EXTINF:-1 ,Channel[V]
+rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
+#EXTINF:-1 ,探索频道
+rtmp://ivi.bupt.edu.cn:1935/livetv/discovery
+#EXTINF:-1 ,国家地理频道
+rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
+#EXTINF:-1 ,CHC高清电影
+rtmp://ivi.bupt.edu.cn:1935/livetv/chchd
+#EXTINF:-1 ,CHC家庭影院
+rtmp://ivi.bupt.edu.cn:1935/livetv/chctv
+#EXTINF:-1 ,CHC动作电影
+rtmp://ivi.bupt.edu.cn:1935/livetv/chcatv
+#EXTINF:-1 ,CCTV-1HD
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv1hd
+#EXTINF:-1 ,CCTV-2HD
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv2hd
+#EXTINF:-1 ,CCTV-3HD
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv3hd
+#EXTINF:-1 ,CCTV-4HD
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv4hd
+#EXTINF:-1 ,CCTV-5HD
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv5hd
+#EXTINF:-1 ,CCTV5+HD
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv5phd
+#EXTINF:-1 ,CCTV-6HD
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv6hd
+#EXTINF:-1 ,CCTV-7HD
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv7hd
+#EXTINF:-1 ,CCTV-8HD
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv8hd
+#EXTINF:-1 ,CCTV-9HD
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv9hd
+#EXTINF:-1 ,CCTV-10HD
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv10hd
+#EXTINF:-1 ,CCTV-12HD
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv12hd
+#EXTINF:-1 ,CCTV-14HD
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv14hd
+#EXTINF:-1 ,CCTV-1综合
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv1
+#EXTINF:-1 ,CCTV-2财经
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv2
+#EXTINF:-1 ,CCTV-3综艺
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv3
+#EXTINF:-1 ,CCTV-4中文国际
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv4
+#EXTINF:-1 ,CCTV-5体育
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv5
+#EXTINF:-1 ,CCTV-6电影
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv6
+#EXTINF:-1 ,CCTV-7军事农业
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv7
+#EXTINF:-1 ,CCTV-8电视剧
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv8
+#EXTINF:-1 ,CCTV-9记录
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv9
+#EXTINF:-1 ,CCTV-10科教
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv10
+#EXTINF:-1 ,CCTV-11戏曲
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv11
+#EXTINF:-1 ,CCTV-12社会与法
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv12
+#EXTINF:-1 ,CCTV-13新闻
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv13
+#EXTINF:-1 ,CCTV-14少儿
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv14
+#EXTINF:-1 ,CCTV-15音乐
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv15
+#EXTINF:-1 ,CGTN-新闻
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv16
+#EXTINF:-1 ,CETV-1
+rtmp://ivi.bupt.edu.cn:1935/livetv/cetv1
+#EXTINF:-1 ,CETV-3
+rtmp://ivi.bupt.edu.cn:1935/livetv/cetv3
+#EXTINF:-1 ,CETV-4
+rtmp://ivi.bupt.edu.cn:1935/livetv/cetv4
+#EXTINF:-1 ,北京卫视高清
+rtmp://ivi.bupt.edu.cn:1935/livetv/btv1hd
+#EXTINF:-1 ,北京影视高清
+rtmp://ivi.bupt.edu.cn:1935/livetv/btv4hd
+#EXTINF:-1 ,北京体育高清
+rtmp://ivi.bupt.edu.cn:1935/livetv/btv6hd
+#EXTINF:-1 ,北京新闻高清
+rtmp://ivi.bupt.edu.cn:1935/livetv/btv9hd
+#EXTINF:-1 ,北京纪实高清
+rtmp://ivi.bupt.edu.cn:1935/livetv/btv11hd
+#EXTINF:-1 ,北京卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/btv1
+#EXTINF:-1 ,北京文艺
+rtmp://ivi.bupt.edu.cn:1935/livetv/btv2
+#EXTINF:-1 ,北京科教
+rtmp://ivi.bupt.edu.cn:1935/livetv/btv3
+#EXTINF:-1 ,北京影视
+rtmp://ivi.bupt.edu.cn:1935/livetv/btv4
+#EXTINF:-1 ,北京财经
+rtmp://ivi.bupt.edu.cn:1935/livetv/btv5
+#EXTINF:-1 ,北京体育
+rtmp://ivi.bupt.edu.cn:1935/livetv/btv6
+#EXTINF:-1 ,北京生活
+rtmp://ivi.bupt.edu.cn:1935/livetv/btv7
+#EXTINF:-1 ,北京青年
+rtmp://ivi.bupt.edu.cn:1935/livetv/btv8
+#EXTINF:-1 ,北京新闻
+rtmp://ivi.bupt.edu.cn:1935/livetv/btv9
+#EXTINF:-1 ,北京卡酷
+rtmp://ivi.bupt.edu.cn:1935/livetv/btv10
+#EXTINF:-1 ,北京文艺高清
+rtmp://ivi.bupt.edu.cn:1935/livetv/btv2hd
+#EXTINF:-1 ,安徽卫视高清
+rtmp://ivi.bupt.edu.cn:1935/livetv/ahhd
+#EXTINF:-1 ,重庆卫视高清
+rtmp://ivi.bupt.edu.cn:1935/livetv/cqhd
+#EXTINF:-1 ,东方卫视高清
+rtmp://ivi.bupt.edu.cn:1935/livetv/dfhd
+#EXTINF:-1 ,天津卫视高清
+rtmp://ivi.bupt.edu.cn:1935/livetv/tjhd
+#EXTINF:-1 ,东南卫视高清
+rtmp://ivi.bupt.edu.cn:1935/livetv/dnhd
+#EXTINF:-1 ,江西卫视高清
+rtmp://ivi.bupt.edu.cn:1935/livetv/jxhd
+#EXTINF:-1 ,河北卫视高清
+rtmp://ivi.bupt.edu.cn:1935/livetv/hebhd
+#EXTINF:-1 ,湖南卫视高清
+rtmp://ivi.bupt.edu.cn:1935/livetv/hunanhd
+#EXTINF:-1 ,湖北卫视高清
+rtmp://ivi.bupt.edu.cn:1935/livetv/hbhd
+#EXTINF:-1 ,辽宁卫视高清
+rtmp://ivi.bupt.edu.cn:1935/livetv/lnhd
+#EXTINF:-1 ,四川卫视高清
+rtmp://ivi.bupt.edu.cn:1935/livetv/schd
+#EXTINF:-1 ,江苏卫视高清
+rtmp://ivi.bupt.edu.cn:1935/livetv/jshd
+#EXTINF:-1 ,浙江卫视高清
+rtmp://ivi.bupt.edu.cn:1935/livetv/zjhd
+#EXTINF:-1 ,江苏卫视高清
+http://ivi.bupt.edu.cn/hls/jshd.m3u8
+#EXTINF:-1 ,山东卫视高清
+rtmp://ivi.bupt.edu.cn:1935/livetv/sdhd
+#EXTINF:-1 ,广东卫视高清
+rtmp://ivi.bupt.edu.cn:1935/livetv/gdhd
+#EXTINF:-1 ,深圳卫视高清
+rtmp://ivi.bupt.edu.cn:1935/livetv/szhd
+#EXTINF:-1 ,黑龙江卫视高清
+rtmp://ivi.bupt.edu.cn:1935/livetv/hljhd
+#EXTINF:-1 ,上海纪实高清
+rtmp://ivi.bupt.edu.cn:1935/livetv/docuchina
+#EXTINF:-1 ,金鹰纪实高清
+rtmp://ivi.bupt.edu.cn:1935/livetv/gedocu
+#EXTINF:-1 ,全纪实高清
+rtmp://ivi.bupt.edu.cn:1935/livetv/documentaryhd
+#EXTINF:-1 ,CCTV-第一剧场
+rtmp://ivi.bupt.edu.cn:1935/livetv/dyjctv
+#EXTINF:-1 ,CCTV-国防军事
+rtmp://ivi.bupt.edu.cn:1935/livetv/gfjstv
+#EXTINF:-1 ,CCTV-怀旧剧场
+rtmp://ivi.bupt.edu.cn:1935/livetv/hjjctv
+#EXTINF:-1 ,CCTV-风云剧场
+rtmp://ivi.bupt.edu.cn:1935/livetv/fyjctv
+#EXTINF:-1 ,CCTV-风云足球
+rtmp://ivi.bupt.edu.cn:1935/livetv/fyzqtv
+#EXTINF:-1 ,CCTV-风云音乐
+rtmp://ivi.bupt.edu.cn:1935/livetv/fyyytv
+#EXTINF:-1 ,CCTV-世界地理
+rtmp://ivi.bupt.edu.cn:1935/livetv/sjdltv
+#EXTINF:-1 ,安徽卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/ahtv
+#EXTINF:-1 ,兵团卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/bttv
+#EXTINF:-1 ,重庆卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/cqtv
+#EXTINF:-1 ,东方卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/dftv
+#EXTINF:-1 ,东南卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/dntv
+#EXTINF:-1 ,广东卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/gdtv
+#EXTINF:-1 ,广西卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/gxtv
+#EXTINF:-1 ,甘肃卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/gstv
+#EXTINF:-1 ,贵州卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/gztv
+#EXTINF:-1 ,湖北卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/hbtv
+#EXTINF:-1 ,湖南卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/hunantv
+#EXTINF:-1 ,河北卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/hebtv
+#EXTINF:-1 ,河南卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/hntv
+#EXTINF:-1 ,黑龙江卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/hljtv
+#EXTINF:-1 ,江苏卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/jstv
+#EXTINF:-1 ,江西卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/jxtv
+#EXTINF:-1 ,吉林卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/jltv
+#EXTINF:-1 ,辽宁卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/lntv
+#EXTINF:-1 ,内蒙古卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/nmtv
+#EXTINF:-1 ,宁夏卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/nxtv
+#EXTINF:-1 ,青海卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/qhtv
+#EXTINF:-1 ,新疆卫视
+http://ivi.bupt.edu.cn/hls/xjtv.m3u8
+#EXTINF:-1 ,西藏卫视
+http://ivi.bupt.edu.cn/hls/xztv.m3u8
+#EXTINF:-1 ,四川卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/sctv
+#EXTINF:-1 ,山东卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/sdtv
+#EXTINF:-1 ,山西卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/sxrtv
+#EXTINF:-1 ,陕西卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/sxtv
+#EXTINF:-1 ,旅游卫视
+http://ivi.bupt.edu.cn/hls/lytv.m3u8
+#EXTINF:-1 ,山东教育
+rtmp://ivi.bupt.edu.cn:
