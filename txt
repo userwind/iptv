@@ -1,233 +1,68 @@
-#EXTM3U
-#EXTINF:-1 ,凤凰卫视中文台
-rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
-#EXTINF:-1 ,凤凰卫视资讯台
-rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
-#EXTINF:-1 ,凤凰卫视电影台
-rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
-#EXTINF:-1 ,星空卫视
-rtmp://ivi.bupt.edu.cn:1935/livetv/startv
-#EXTINF:-1 ,Star Sports
-rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
-#EXTINF:-1 ,Channel[V]
-rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
-#EXTINF:-1 ,探索频道
-rtmp://ivi.bupt.edu.cn:1935/livetv/discovery
-#EXTINF:-1 ,国家地理频道
-rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
-#EXTINF:-1 ,CHC高清电影
-rtmp://ivi.bupt.edu.cn:1935/livetv/chchd
-#EXTINF:-1 ,CHC家庭影院
-rtmp://ivi.bupt.edu.cn:1935/livetv/chctv
-#EXTINF:-1 ,CHC动作电影
-rtmp://ivi.bupt.edu.cn:1935/livetv/chcatv
-#EXTINF:-1 ,CCTV-1HD
-rtmp://ivi.bupt.edu.cn:1935/livetv/cctv1hd
-#EXTINF:-1 ,CCTV-2HD
-rtmp://ivi.bupt.edu.cn:1935/livetv/cctv2hd
-#EXTINF:-1 ,CCTV-3HD
-rtmp://ivi.bupt.edu.cn:1935/livetv/cctv3hd
-#EXTINF:-1 ,CCTV-4HD
-rtmp://ivi.bupt.edu.cn:1935/livetv/cctv4hd
-#EXTINF:-1 ,CCTV-5HD
-rtmp://ivi.bupt.edu.cn:1935/livetv/cctv5hd
-#EXTINF:-1 ,CCTV5+HD
-rtmp://ivi.bupt.edu.cn:1935/livetv/cctv5phd
-#EXTINF:-1 ,CCTV-6HD
-rtmp://ivi.bupt.edu.cn:1935/livetv/cctv6hd
-#EXTINF:-1 ,CCTV-7HD
-rtmp://ivi.bupt.edu.cn:1935/livetv/cctv7hd
-#EXTINF:-1 ,CCTV-8HD
-rtmp://ivi.bupt.edu.cn:1935/livetv/cctv8hd
-#EXTINF:-1 ,CCTV-9HD
-rtmp://ivi.bupt.edu.cn:1935/livetv/cctv9hd
-#EXTINF:-1 ,CCTV-10HD
-rtmp://ivi.bupt.edu.cn:1935/livetv/cctv10hd
-#EXTINF:-1 ,CCTV-12HD
-rtmp://ivi.bupt.edu.cn:1935/livetv/cctv12hd
-#EXTINF:-1 ,CCTV-14HD
-rtmp://ivi.bupt.edu.cn:1935/livetv/cctv14hd
-#EXTINF:-1 ,CCTV-1综合
-rtmp://ivi.bupt.edu.cn:1935/livetv/cctv1
-#EXTINF:-1 ,CCTV-2财经
-rtmp://ivi.bupt.edu.cn:1935/livetv/cctv2
-#EXTINF:-1 ,CCTV-3综艺
-rtmp://ivi.bupt.edu.cn:1935/livetv/cctv3
-#EXTINF:-1 ,CCTV-4中文国际
-rtmp://ivi.bupt.edu.cn:1935/livetv/cctv4
-#EXTINF:-1 ,CCTV-5体育
-rtmp://ivi.bupt.edu.cn:1935/livetv/cctv5
-#EXTINF:-1 ,CCTV-6电影
-rtmp://ivi.bupt.edu.cn:1935/livetv/cctv6
-#EXTINF:-1 ,CCTV-7军事农业
-rtmp://ivi.bupt.edu.cn:1935/livetv/cctv7
-#EXTINF:-1 ,CCTV-8电视剧
-rtmp://ivi.bupt.edu.cn:1935/livetv/cctv8
-#EXTINF:-1 ,CCTV-9记录
-rtmp://ivi.bupt.edu.cn:1935/livetv/cctv9
-#EXTINF:-1 ,CCTV-10科教
-rtmp://ivi.bupt.edu.cn:1935/livetv/cctv10
-#EXTINF:-1 ,CCTV-11戏曲
-rtmp://ivi.bupt.edu.cn:1935/livetv/cctv11
-#EXTINF:-1 ,CCTV-12社会与法
-rtmp://ivi.bupt.edu.cn:1935/livetv/cctv12
-#EXTINF:-1 ,CCTV-13新闻
-rtmp://ivi.bupt.edu.cn:1935/livetv/cctv13
-#EXTINF:-1 ,CCTV-14少儿
-rtmp://ivi.bupt.edu.cn:1935/livetv/cctv14
-#EXTINF:-1 ,CCTV-15音乐
-rtmp://ivi.bupt.edu.cn:1935/livetv/cctv15
-#EXTINF:-1 ,CGTN-新闻
-rtmp://ivi.bupt.edu.cn:1935/livetv/cctv16
-#EXTINF:-1 ,CETV-1
-rtmp://ivi.bupt.edu.cn:1935/livetv/cetv1
-#EXTINF:-1 ,CETV-3
-rtmp://ivi.bupt.edu.cn:1935/livetv/cetv3
-#EXTINF:-1 ,CETV-4
-rtmp://ivi.bupt.edu.cn:1935/livetv/cetv4
-#EXTINF:-1 ,北京卫视高清
-rtmp://ivi.bupt.edu.cn:1935/livetv/btv1hd
-#EXTINF:-1 ,北京影视高清
-rtmp://ivi.bupt.edu.cn:1935/livetv/btv4hd
-#EXTINF:-1 ,北京体育高清
-rtmp://ivi.bupt.edu.cn:1935/livetv/btv6hd
-#EXTINF:-1 ,北京新闻高清
-rtmp://ivi.bupt.edu.cn:1935/livetv/btv9hd
-#EXTINF:-1 ,北京纪实高清
-rtmp://ivi.bupt.edu.cn:1935/livetv/btv11hd
-#EXTINF:-1 ,北京卫视
-rtmp://ivi.bupt.edu.cn:1935/livetv/btv1
-#EXTINF:-1 ,北京文艺
-rtmp://ivi.bupt.edu.cn:1935/livetv/btv2
-#EXTINF:-1 ,北京科教
-rtmp://ivi.bupt.edu.cn:1935/livetv/btv3
-#EXTINF:-1 ,北京影视
-rtmp://ivi.bupt.edu.cn:1935/livetv/btv4
-#EXTINF:-1 ,北京财经
-rtmp://ivi.bupt.edu.cn:1935/livetv/btv5
-#EXTINF:-1 ,北京体育
-rtmp://ivi.bupt.edu.cn:1935/livetv/btv6
-#EXTINF:-1 ,北京生活
-rtmp://ivi.bupt.edu.cn:1935/livetv/btv7
-#EXTINF:-1 ,北京青年
-rtmp://ivi.bupt.edu.cn:1935/livetv/btv8
-#EXTINF:-1 ,北京新闻
-rtmp://ivi.bupt.edu.cn:1935/livetv/btv9
-#EXTINF:-1 ,北京卡酷
-rtmp://ivi.bupt.edu.cn:1935/livetv/btv10
-#EXTINF:-1 ,北京文艺高清
-rtmp://ivi.bupt.edu.cn:1935/livetv/btv2hd
-#EXTINF:-1 ,安徽卫视高清
-rtmp://ivi.bupt.edu.cn:1935/livetv/ahhd
-#EXTINF:-1 ,重庆卫视高清
-rtmp://ivi.bupt.edu.cn:1935/livetv/cqhd
-#EXTINF:-1 ,东方卫视高清
-rtmp://ivi.bupt.edu.cn:1935/livetv/dfhd
-#EXTINF:-1 ,天津卫视高清
-rtmp://ivi.bupt.edu.cn:1935/livetv/tjhd
-#EXTINF:-1 ,东南卫视高清
-rtmp://ivi.bupt.edu.cn:1935/livetv/dnhd
-#EXTINF:-1 ,江西卫视高清
-rtmp://ivi.bupt.edu.cn:1935/livetv/jxhd
-#EXTINF:-1 ,河北卫视高清
-rtmp://ivi.bupt.edu.cn:1935/livetv/hebhd
-#EXTINF:-1 ,湖南卫视高清
-rtmp://ivi.bupt.edu.cn:1935/livetv/hunanhd
-#EXTINF:-1 ,湖北卫视高清
-rtmp://ivi.bupt.edu.cn:1935/livetv/hbhd
-#EXTINF:-1 ,辽宁卫视高清
-rtmp://ivi.bupt.edu.cn:1935/livetv/lnhd
-#EXTINF:-1 ,四川卫视高清
-rtmp://ivi.bupt.edu.cn:1935/livetv/schd
-#EXTINF:-1 ,江苏卫视高清
-rtmp://ivi.bupt.edu.cn:1935/livetv/jshd
-#EXTINF:-1 ,浙江卫视高清
-rtmp://ivi.bupt.edu.cn:1935/livetv/zjhd
-#EXTINF:-1 ,江苏卫视高清
-http://ivi.bupt.edu.cn/hls/jshd.m3u8
-#EXTINF:-1 ,山东卫视高清
-rtmp://ivi.bupt.edu.cn:1935/livetv/sdhd
-#EXTINF:-1 ,广东卫视高清
-rtmp://ivi.bupt.edu.cn:1935/livetv/gdhd
-#EXTINF:-1 ,深圳卫视高清
-rtmp://ivi.bupt.edu.cn:1935/livetv/szhd
-#EXTINF:-1 ,黑龙江卫视高清
-rtmp://ivi.bupt.edu.cn:1935/livetv/hljhd
-#EXTINF:-1 ,上海纪实高清
-rtmp://ivi.bupt.edu.cn:1935/livetv/docuchina
-#EXTINF:-1 ,金鹰纪实高清
-rtmp://ivi.bupt.edu.cn:1935/livetv/gedocu
-#EXTINF:-1 ,全纪实高清
-rtmp://ivi.bupt.edu.cn:1935/livetv/documentaryhd
-#EXTINF:-1 ,CCTV-第一剧场
-rtmp://ivi.bupt.edu.cn:1935/livetv/dyjctv
-#EXTINF:-1 ,CCTV-国防军事
-rtmp://ivi.bupt.edu.cn:1935/livetv/gfjstv
-#EXTINF:-1 ,CCTV-怀旧剧场
-rtmp://ivi.bupt.edu.cn:1935/livetv/hjjctv
-#EXTINF:-1 ,CCTV-风云剧场
-rtmp://ivi.bupt.edu.cn:1935/livetv/fyjctv
-#EXTINF:-1 ,CCTV-风云足球
-rtmp://ivi.bupt.edu.cn:1935/livetv/fyzqtv
-#EXTINF:-1 ,CCTV-风云音乐
-rtmp://ivi.bupt.edu.cn:1935/livetv/fyyytv
-#EXTINF:-1 ,CCTV-世界地理
-rtmp://ivi.bupt.edu.cn:1935/livetv/sjdltv
-#EXTINF:-1 ,安徽卫视
-rtmp://ivi.bupt.edu.cn:1935/livetv/ahtv
-#EXTINF:-1 ,兵团卫视
-rtmp://ivi.bupt.edu.cn:1935/livetv/bttv
-#EXTINF:-1 ,重庆卫视
-rtmp://ivi.bupt.edu.cn:1935/livetv/cqtv
-#EXTINF:-1 ,东方卫视
-rtmp://ivi.bupt.edu.cn:1935/livetv/dftv
-#EXTINF:-1 ,东南卫视
-rtmp://ivi.bupt.edu.cn:1935/livetv/dntv
-#EXTINF:-1 ,广东卫视
-rtmp://ivi.bupt.edu.cn:1935/livetv/gdtv
-#EXTINF:-1 ,广西卫视
-rtmp://ivi.bupt.edu.cn:1935/livetv/gxtv
-#EXTINF:-1 ,甘肃卫视
-rtmp://ivi.bupt.edu.cn:1935/livetv/gstv
-#EXTINF:-1 ,贵州卫视
-rtmp://ivi.bupt.edu.cn:1935/livetv/gztv
-#EXTINF:-1 ,湖北卫视
-rtmp://ivi.bupt.edu.cn:1935/livetv/hbtv
-#EXTINF:-1 ,湖南卫视
-rtmp://ivi.bupt.edu.cn:1935/livetv/hunantv
-#EXTINF:-1 ,河北卫视
-rtmp://ivi.bupt.edu.cn:1935/livetv/hebtv
-#EXTINF:-1 ,河南卫视
-rtmp://ivi.bupt.edu.cn:1935/livetv/hntv
-#EXTINF:-1 ,黑龙江卫视
-rtmp://ivi.bupt.edu.cn:1935/livetv/hljtv
-#EXTINF:-1 ,江苏卫视
-rtmp://ivi.bupt.edu.cn:1935/livetv/jstv
-#EXTINF:-1 ,江西卫视
-rtmp://ivi.bupt.edu.cn:1935/livetv/jxtv
-#EXTINF:-1 ,吉林卫视
-rtmp://ivi.bupt.edu.cn:1935/livetv/jltv
-#EXTINF:-1 ,辽宁卫视
-rtmp://ivi.bupt.edu.cn:1935/livetv/lntv
-#EXTINF:-1 ,内蒙古卫视
-rtmp://ivi.bupt.edu.cn:1935/livetv/nmtv
-#EXTINF:-1 ,宁夏卫视
-rtmp://ivi.bupt.edu.cn:1935/livetv/nxtv
-#EXTINF:-1 ,青海卫视
-rtmp://ivi.bupt.edu.cn:1935/livetv/qhtv
-#EXTINF:-1 ,新疆卫视
-http://ivi.bupt.edu.cn/hls/xjtv.m3u8
-#EXTINF:-1 ,西藏卫视
-http://ivi.bupt.edu.cn/hls/xztv.m3u8
-#EXTINF:-1 ,四川卫视
-rtmp://ivi.bupt.edu.cn:1935/livetv/sctv
-#EXTINF:-1 ,山东卫视
-rtmp://ivi.bupt.edu.cn:1935/livetv/sdtv
-#EXTINF:-1 ,山西卫视
-rtmp://ivi.bupt.edu.cn:1935/livetv/sxrtv
-#EXTINF:-1 ,陕西卫视
-rtmp://ivi.bupt.edu.cn:1935/livetv/sxtv
-#EXTINF:-1 ,旅游卫视
-http://ivi.bupt.edu.cn/hls/lytv.m3u8
-#EXTINF:-1 ,山东教育
-rtmp://ivi.bupt.edu.cn:
+#EXTM3U x-tvg-url="https://epg.erw.cc/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#央视频道
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道",CCTV-2 财经
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视频道",CCTV-3 综艺
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视频道",CCTV-4 中文国际
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5plus" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视频道",CCTV-5+ 体育赛事
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视频道",CCTV-6 电影
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视频道",CCTV-7 国防军事
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视频道",CCTV-8 电视剧
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视频道",CCTV-9 纪录
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视频道",CCTV-10 科教
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视频道",CCTV-11 戏曲
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视频道",CCTV-12 社会与法
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视频道",CCTV-13 新闻
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视频道",CCTV-14 少儿
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视频道",CCTV-15 音乐
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视频道",CCTV-4K 超高清
+http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/cctv/CCTV8k.png" group-title="央视频道",CCTV-8K 超高清
+#https://tv.cry33.com/ys4k.php?id=8k
+http://mtw.so/62HqYI
+#EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/cctv/CCTVbqkj.png" group-title="央视频道",CCTV-兵器科技
+http://111.61.236.247:9081/hls/61/index.m3u8
+#EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://live.fanmingming.com/tv/第一剧场.png" group-title="央视频道",CCTV-第一剧场
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077f5ca035/1.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="央视频道",CCTV-风云足球
+http://111.61.236.247:9081/hls/58/index.m3u8
+#EXTINF:-1 tvg-name="世界地理" tvg-logo="https://live.fanmingming.com/tv/世界地理.png" group-title="央视频道",CCTV-世界地理
+http://111.61.236.247:9081/hls/62/index.m3u8
+#EXTINF:-1 tvg-name="央视台球" tvg-logo="https://live.fanmingming.com/tv/央视台球.png" group-title="央视频道",CCTV-央视台球
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/1.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://live.fanmingming.com/tv/央视高网.png" group-title="央视频道",CCTV-央视高网
+http://[2409:8087:74F1:0021::0008]/270000001128/9900000094/index.m3u8
+#EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/cctv/CCTVfyyy.png" group-title="央视频道",CCTV-风云音乐
+http://60.10.225.157:555/rtp/239.253.93.253:6431
+#EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/cctv/CCTVfyjc.png" group-title="央视频道",CCTV-风云剧场
+http://60.10.225.157:555/rtp/239.253.93.251:6429
+#EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/cctv/CCTVhjjc.png" group-title="央视频道",CCTV-怀旧剧场
+http://111.61.236.247:9081/hls/67/index.m3u8
+#EXTINF:-1 tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/cctv/CCTVwhjp.png" group-title="央视频道",CCTV-文化精品
+http://wouu.net:9977/udp/239.93.42.47:5140
+#EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/cctv/CCTVnxss.png" group-title="央视频道",CCTV-女性时尚
+http://111.61.236.247:9081/hls/59/index.m3u8
+#EXTINF:-1 tvg-id="CCTVdszn" tvg-name="电视指南" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/cctv/CCTVdszn.png" group-title="央视频道",CCTV-电视指南
+http://60.10.225.157:555/rtp/239.253.93.249:6427
+#EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://live.fanmingming.com/tv/
