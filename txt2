@@ -317,7 +317,7 @@ https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2/53240
 #EXTINF:-1 tvg-id="TVBJ2" tvg-name="TVBJ2" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVB3.png" group-title="港澳台频道",TVBJ2
 http://bziyunshao.synology.me:8890/bysid/82
 #EXTINF:-1 tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://live.fanmingming.com/tv/星空卫视.png" group-title="港澳台频道",星空卫视
-https://ghproxy.com/http://wouu.net:9977/udp/239.93.0.156:2193
+http://wouu.net:9977/udp/239.93.0.156:2193
 #http://vl15191373.imwork.net:8880/udp/239.93.0.156:2193
 #EXTINF:-1 tvg-id="星光综合" tvg-name="星光综合" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/img/星光综合台.png" group-title="港澳台频道",星光综合
 http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
